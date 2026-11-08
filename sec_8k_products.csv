@@ -1,0 +1,120 @@
+company_name,stock_name,filing_time,new_product,product_description
+Apple Inc.,AAPL,2026-11-02T16:30:23-05:00,iPhone Duo,Described by the CEO as the most transformational iPhone since the original.
+Apple Inc.,AAPL,2026-11-02T16:30:23-05:00,iPhone 18 Pro and iPhone 18 Pro Max,The latest and most powerful versions of the iPhone lineup.
+Apple Inc.,AAPL,2026-11-02T16:30:23-05:00,New generation of hardware for the home,A newly introduced generation of hardware devices designed for the home.
+Apple Inc.,AAPL,2026-11-02T16:30:23-05:00,Touch for Mac,New functionality bringing touch-based interaction to Mac computers for the first time.
+Apple Inc.,AAPL,2026-11-02T16:30:23-05:00,Siri AI,An all-new artificial intelligence iteration of the company's virtual assistant.
+Apple Inc.,AAPL,2026-07-30T16:30:28-04:00,Siri AI,An artificial intelligence-powered version of the Siri assistant introduced by Apple at WWDC26.
+Apple Inc.,AAPL,2026-04-30T16:30:41-04:00,iPhone 17e,A new addition to the iPhone 17 lineup introduced as part of the company's strongest product offerings.
+Apple Inc.,AAPL,2026-04-30T16:30:41-04:00,M4-powered iPad Air,A refreshed version of the iPad Air featuring the M4 chip.
+Apple Inc.,AAPL,2026-04-30T16:30:41-04:00,MacBook Neo,A newly launched laptop model described as capturing customer interest globally.
+Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,iPhone 17,"The latest iteration in Apple's flagship smartphone lineup, launched in September 2025."
+Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,iPhone 17 Pro,"A premium version of the iPhone 17, featuring advanced capabilities as part of the new 2025 smartphone lineup."
+Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,iPhone 17 Pro Max,"The top-tier model in the iPhone 17 series, launched in September 2025."
+Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,iPhone Air,A new addition to the iPhone product lineup introduced in September 2025.
+Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,AirPods Pro 3,The third generation of Apple's premium noise-canceling wireless earbuds.
+Apple Inc.,AAPL,2025-10-30T16:30:35-04:00,Apple Watch lineup,An all-new collection of Apple Watch models launched in September 2025.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA Vera,"The first CPU designed specifically for AI agents, intended for broad adoption across leading technology providers."
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA Vera BlueField-4 STX,Security innovations for agentic AI storage processing featuring in-silicon security for AI factories.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA DSX platform,"A comprehensive infrastructure platform providing a playbook for designing, building, and operating AI factories at scale."
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA BioNeMo Agent Toolkit,A toolkit providing domain-specific tools and skills for the agentic life sciences era.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA RTX Spark,A 1-petaflop superchip for Windows PCs integrating the full CUDA and NVIDIA RTX ecosystem.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA DGX Station for Windows,A powerful deskside AI supercomputer designed for developing and running agents on Windows systems.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA Alpamayo 2 Super,A frontier open reasoning model for commercial use in safe robotaxi and autonomous vehicle development.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA Cosmos 3,The first fully open frontier omnimodel designed for physical AI applications.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA Isaac GR00T Reference Humanoid Robot,An open humanoid robot reference design built on the Jetson Thor and Isaac GR00T development platform.
+NVIDIA CORP,NVDA,2026-08-26T16:21:19-04:00,NVIDIA Halos for Robotics,"The industry's first full-stack safety system for physical AI, unifying AI compute and safety into one platform."
+NVIDIA CORP,NVDA,2026-08-17T08:41:33-04:00,DSX AI factory platform,"A full-stack platform consisting of GPUs, CPUs, and networking designed to deliver resiliency across facilities, hardware, and software for AI data centers."
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA Vera Rubin platform,"A computing platform for agentic AI, featuring the Vera CPU and BlueField-4 STX accelerated storage infrastructure."
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA Dynamo 1.0,Open source software designed to boost generative and agentic inference on NVIDIA Blackwell GPUs by up to 7x.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA NemoClaw,A software component for the OpenClaw agent platform.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA OpenShell,A tool providing privacy and security controls for autonomous AI agents.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA Agent Toolkit,An open source platform for building autonomous enterprise AI agents.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA RTX PRO 4500 Blackwell Server Edition GPU,A new server-grade GPU model based on the Blackwell architecture.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,DLSS 5,"The next generation of DLSS, featuring 3D-guided neural rendering models for graphics."
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA Alpamayo 1.5,An open model designed for autonomous driving systems at scale.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA Halos OS,A unified safety architecture designed for AI-driven vehicles.
+NVIDIA CORP,NVDA,2026-05-20T16:21:19-04:00,NVIDIA Isaac GR00T N models,New models for the Isaac robotics simulation and development framework.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Amazon Bedrock Managed Agents,A stateful runtime environment for AWS customers to build and scale generative AI applications and agents.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Amazon Quick desktop app,"An AI-powered app that queries email, calendar, and files to summarize information, make recommendations, and compose communications."
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,"Connect Decisions, Connect Talent, Connect Customer, and Connect Health","New AI capabilities integrated into Amazon Connect to transform supply chain, hiring, customer experience, and healthcare operations."
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,AWS Agent Registry,"A tool to help customers discover, share, and reuse AI agents, tools, and agent skills across an enterprise."
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Claude Mythos Preview,"An AI model for cybersecurity and vulnerability detection, available in gated research preview with enterprise-grade security."
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Amazon Bio Discovery,An agentic AI application designed to accelerate drug discovery by providing scientists access to biological foundation models.
+AMAZON COM INC,AMZN,2026-04-29T16:18:55-04:00,Creative Agent,"An agentic AI solution that acts as a virtual creative partner for advertisers to research, brainstorm, and generate full-funnel ad campaigns."
+AMAZON COM INC,AMZN,2026-04-14T08:04:26-04:00,Amazon Leo D2D system,"A next-generation direct-to-device satellite system, launching in 2028, to provide advanced voice, data, and messaging services to mobile phones and cellular devices."
+"Meta Platforms, Inc.",META,2026-10-21T16:03:35-04:00,Muse,A frontier model for personal superintelligence.
+"Meta Platforms, Inc.",META,2026-10-21T16:03:35-04:00,Muse Wonder,A frontier model for personal superintelligence.
+"Meta Platforms, Inc.",META,2026-04-29T16:05:41-04:00,First model from Meta Superintelligence Labs,An artificial intelligence model developed by the company's newly referenced Meta Superintelligence Labs division.
+"Tesla, Inc.",TSLA,2026-10-21T16:41:42-04:00,Cybercab,"An autonomous vehicle deployed for the Robotaxi fleet, featuring integration with Grok for productivity and entertainment."
+"Tesla, Inc.",TSLA,2026-10-21T16:41:42-04:00,Next Gen Roadster,"A new sports vehicle model unveiled by Tesla on October 15, 2026."
+"Tesla, Inc.",TSLA,2026-10-21T16:41:42-04:00,Optimus,"Humanoid robots manufactured on high-volume production lines, proven suitable for commercial application."
+"Tesla, Inc.",TSLA,2026-07-22T16:35:52-04:00,Model YL,A new vehicle model launched in the U.S. market in July 2026.
+"Tesla, Inc.",TSLA,2026-07-22T16:35:52-04:00,Cybercab,"A purpose-built, autonomous electric vehicle designed for Tesla's Robotaxi fleet, which has begun production at Gigafactory Texas."
+"Tesla, Inc.",TSLA,2026-07-22T16:35:52-04:00,Powerwall 3P,"A three-phase residential energy storage unit now available in Germany, featuring a native three-phase inverter for homes with three-phase power."
+"Tesla, Inc.",TSLA,2026-07-22T16:35:52-04:00,FSD v14 lite,"A software build for AI3 hardware that distills driving behavior from AI4, including new destination options and improved navigation/driving responsiveness."
+"Tesla, Inc.",TSLA,2026-04-22T16:10:44-04:00,Megapack 3,A large-scale energy storage battery system for which production lines are being prepared.
+"Tesla, Inc.",TSLA,2026-04-22T16:10:44-04:00,Cybercab,A purpose-built autonomous vehicle currently in pilot production phase.
+"Tesla, Inc.",TSLA,2026-04-22T16:10:44-04:00,AI5 inference processor,A next-generation chip designed by Tesla for artificial intelligence inference.
+"Tesla, Inc.",TSLA,2026-04-22T16:10:44-04:00,In-house solar panel,A new residential solar panel featuring 18 power zones for improved performance in shady conditions.
+"Tesla, Inc.",TSLA,2026-01-28T16:11:04-05:00,Robotaxi,"An autonomous ride-hailing vehicle service currently testing in Austin, with plans for broader geographic expansion."
+"Tesla, Inc.",TSLA,2026-01-28T16:11:04-05:00,Optimus Gen 3,"The third generation of Tesla's humanoid robot, designed for mass production with significant upgrades to design and hardware."
+"Tesla, Inc.",TSLA,2026-01-28T16:11:04-05:00,Megablock,A new energy storage product scheduled for production at Megafactory Houston starting in 2026.
+"Tesla, Inc.",TSLA,2026-01-28T16:11:04-05:00,AI5,"A custom-designed, next-generation inference chip for autonomy, targeting a 50x performance improvement over the AI4 chip."
+"Tesla, Inc.",TSLA,2026-01-28T16:11:04-05:00,AI6,"An in-house, custom-designed inference chip currently in development for future autonomous vehicle applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,AMD Instinct MI450 Series GPUs,New series of GPUs launched to meet the strong demand in the Data Center segment.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,AMD Helios,Rack-scale solutions powered by AMD Instinct MI450 Series GPUs and 6th Gen AMD EPYC CPUs designed for superintelligence infrastructure.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,AMD Helion reference architecture,An open blueprint for building rack-scale agentic systems allowing customers to configure CPU and GPU mixes based on workload needs.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,AMD Versal AI Core XQRVC1902,A space-grade adaptive SoC designed for missions lasting up to 15 years.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,AMD Ross,An agentic tool for embedded system design created to accelerate time to market and improve performance.
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,AMD Ryzen AI Halo platform,"A platform powered by Ryzen AI Max PRO 400 Series processors, enabling local model development and execution."
+ADVANCED MICRO DEVICES INC,AMD,2026-11-03T16:16:27-05:00,Threadripper Halo Station,A workstation powered by the Threadripper 9955WX CPU and Instinct MI350p GPU capable of running trillion-parameter models locally.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Helios,"A rackscale solution described as the world’s most powerful AI server rack, delivering leadership inference tokens per dollar."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Instinct MI400 Series GPU family,Includes the MI455X for large-scale AI training/inference and the MI430X for HPC and sovereign AI workloads.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,6th Gen AMD EPYC server CPUs,"Server processors designed for agentic AI, general-purpose, and enterprise workloads."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,ROCm.ai,"An AI-native developer experience for building, deploying, and optimizing faster across AMD platforms."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Instinct MI350P GPU,A GPU designed to bring AI acceleration to existing infrastructure with leadership token economics.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Ryzen AI Halo systems,"Systems for developers to build, test, and run agentic AI workflows locally."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Ryzen™ AI Embedded X100 Series processors,"Embedded x86 processors integrating CPU, GPU, and AI acceleration for robotics and industrial automation."
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,AMD Kria™ AI solutions,System-on-modules and a robotics developer platform designed to accelerate the development of physical AI systems.
+ADVANCED MICRO DEVICES INC,AMD,2026-08-04T16:16:24-04:00,Versal™ Premium Series Gen 2 Memory on Package adaptive SoCs,"Adaptive SoCs built to speed data transfer for test, measurement, professional video, communications, and aerospace."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Ryzen AI PRO 400 Series processors,Next-generation enterprise desktop processors designed to deliver Copilot+ experiences.
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Ryzen 9950X3D2 Dual Edition processor,Processor with dual stacks of 3D V-Cache technology for enhanced creative and developer workload performance.
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Ryzen AI Embedded P100 Series processors,"Scalable, power-efficient AI compute processors for industrial and edge applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,Kintex UltraScale+ Gen 2 FPGAs,"Mid-range FPGAs delivering advanced memory bandwidth and I/O performance for industrial, imaging, and broadcast applications."
+ADVANCED MICRO DEVICES INC,AMD,2026-05-05T16:16:06-04:00,EPYC 8005 server CPUs,Server CPUs optimized for telecommunications and edge environments with high performance per-watt-per-dollar.
+ADVANCED MICRO DEVICES INC,AMD,2026-02-24T07:01:06-05:00,Custom AMD Instinct GPU (MI450 architecture),"A custom GPU based on the MI450 architecture, optimized for Meta’s workloads and designed for gigawatt-scale AI infrastructure."
+ADVANCED MICRO DEVICES INC,AMD,2026-02-24T07:01:06-05:00,6th Gen AMD EPYC CPUs (codenamed Venice and Verano),Next-generation EPYC processors designed with workload-specific optimizations to deliver leadership performance-per-dollar-per-watt for AI compute stacks.
+INTEL CORP,INTC,2026-10-29T16:08:53-04:00,Full-stack quantum computing platform,A platform combining Classiq's quantum software synthesis with Intel’s spin-qubit manufacturing and software expertise.
+INTEL CORP,INTC,2026-10-29T16:08:53-04:00,Intel GPU D-series,"Formerly code-named Crescent Island, this is a new GPU product designed for efficient inference and AI workloads."
+INTEL CORP,INTC,2026-10-29T16:08:53-04:00,Intel Core Ultra Series 3 processors,"New flagship client processors powering Googlebook devices from Acer, ASUS, and Lenovo."
+INTEL CORP,INTC,2026-07-23T16:09:00-04:00,Xeon® 6+,"Next-generation data center CPU and Intel's first server class product on Intel 18A, designed for sustained performance under real-world power constraints."
+INTEL CORP,INTC,2026-07-23T16:09:00-04:00,OpenVINO™ Physical AI,"An open-source framework designed to help developers deploy robotics models across vision, language, reasoning, and motion-control workloads."
+INTEL CORP,INTC,2026-07-23T16:09:00-04:00,Intel® Arc™ G-Series processors,A new family of processors specifically designed for next-generation handheld gaming systems.
+INTEL CORP,INTC,2026-07-23T16:09:00-04:00,Ethernet® E835 portfolio,"Networking solutions scaling from 10GbE to 200GbE for cloud, AI, enterprise, edge, and telco infrastructure."
+INTEL CORP,INTC,2026-07-23T16:09:00-04:00,Fortinet Security Processor 6,"Purpose-built silicon developed in collaboration with Fortinet using Intel's advanced design, packaging, and manufacturing capabilities."
+INTEL CORP,INTC,2026-04-23T16:07:02-04:00,Intel Xeon 600 processors,New processors designed for workstation use.
+INTEL CORP,INTC,2026-04-23T16:07:02-04:00,Intel Core Ultra 200S Plus processors,New processors for desktop computing.
+INTEL CORP,INTC,2026-04-23T16:07:02-04:00,Intel Core Ultra 200HX Plus processors,New processors for mobile computing.
+INTEL CORP,INTC,2026-04-23T16:07:02-04:00,Intel Core Series 2 processors,New processors designed for health and life sciences edge computing.
+INTEL CORP,INTC,2026-04-23T16:07:02-04:00,Intel Core Ultra Series 3 processors,New processors featuring Intel vPro and designed for mainstream use.
+Alphabet Inc.,GOOGL,2026-10-28T16:01:33-04:00,Gemini 4,"A new generation of AI models consisting of 'Argon' and 'Carbon' versions, currently leading at the frontier of AI model performance."
+Alphabet Inc.,GOOGL,2026-07-22T16:01:36-04:00,Gemini 3.5 Flash Cyber,A new security solution designed to provide highly cost-efficient performance at the frontier of cybersecurity.
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Bedrock Managed Agents,A managed service powered by OpenAI that enables enterprises to build and deploy production-ready AI agents faster.
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Strands harness,An open-source agent harness that allows developers to build custom agents with greater token efficiency and lower costs.
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Strands Box,An open-source sandbox that allows developers to define rules for agent behavior to prevent unintended autonomous actions.
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Lambda Web Functions,"A feature for Lambda allowing developers to run scalable, responsive web applications using various web frameworks."
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,AWS Continuum,"An AI-powered security service that automatically discovers, prioritizes, validates, and remediates software vulnerabilities."
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Kiro Crew,An open-source persistent workspace that remembers developer context and coordinates multiple agents for parallel task execution.
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Amazon Ads Agent,"An AI-first advertising platform that supports advertisers with insights, planning, and execution across multiple ad formats."
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Full-Funnel Campaigns,"A feature within Amazon Ads Agent that combines sponsored ads, display, video, and streaming TV into a single AI-optimized campaign."
+AMAZON COM INC,AMZN,2026-10-29T16:05:27-04:00,Built Together,"A $1 billion community investment initiative focused on supporting infrastructure, education, and social services in data center communities."
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Graviton5,A new generation of AWS processor instances delivering up to 30 to 40% better price-performance than comparable instances and 25% better compute performance than Graviton4.
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,AWS Continuum,"An AI-powered tool that ingests vulnerability backlogs, runs comprehensive scans using frontier models, prioritizes findings, and recommends fixes in a sandbox."
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Amazon Quick,"An intelligent AI work companion that automates digital workloads, featuring autonomous agents, a personalized activity feed, and 16 new integrations."
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Lambda MicroVMs,"A flavor of AWS Lambda that offers instant start times and a stateful runtime with sessions lasting up to 8 hours, designed for agentic AI workloads."
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,AWS Secret Cloud for Industry,"A platform providing defense contractors a faster, more secure path to classified innovation."
+AMAZON COM INC,AMZN,2026-07-30T16:06:23-04:00,Amazon Supply Chain Services,"End-to-end supply chain services allowing businesses to move, store, and deliver goods using the same infrastructure that supports Amazon."
+QUALCOMM INC/DE,QCOM,2026-11-04T16:03:36-05:00,Multi-Generational Product Collaboration,A collaboration with Amazon focused on developing solutions for AI data centers.
+QUALCOMM INC/DE,QCOM,2026-09-08T09:00:20-04:00,QTI server chip products,"Server chip products developed by Qualcomm Technologies, Inc. intended for use in enterprise or cloud computing data center environments."
+QUALCOMM INC/DE,QCOM,2026-04-29T16:02:20-04:00,Data center custom silicon,"Custom silicon designed for a leading hyperscaler, with initial shipments expected later in the 2026 calendar year."
